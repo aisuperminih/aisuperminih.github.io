@@ -6,7 +6,7 @@ A doctoral student.
 <code>superminih1998@gs.zzu.edu.cn</code>  
 
 #### Education  
-**Zhengzhou University**,    
+**Zhengzhou University**   
 
 #### Research Interests  
-LLM
+**LLM**
